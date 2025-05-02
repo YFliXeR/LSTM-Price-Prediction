@@ -1,4 +1,4 @@
-# Graduation Project
+# Project description
 This project is an implementation of a machine learning model using LSTM to predict stock prices
 The front-end of the application is built using Streamlit 
 The back-end is built using FastAPI
