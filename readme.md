@@ -15,5 +15,8 @@ Then in a separate terminal, start the Streamlit app:
 
 You should now be able to access the application in your web browser at http://localhost:8501.
 
-
+# To install all the necessary libraries
+"""
+pip install -r requirements.txt
+"""
 
