@@ -1,15 +1,11 @@
-"""
-pip install -r requirements.txt
-To install all the necessary libraries ^
-"""
-numpy
-pandas
-fastapi
-tensorflow
-pydantic
-scikit-learn
-plotly
-requests
-streamlit
-yfinance
-uvicorn
+numpy==2.0.2
+pandas==2.2.3
+fastapi==0.115.12
+tensorflow==2.19.0
+pydantic==2.11.3
+scikit-learn==1.6.1
+plotly==6.0.1
+requests==2.32.3
+streamlit==1.44.1
+yfinance==0.2.55
+uvicorn==0.34.2
